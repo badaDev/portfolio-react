@@ -1,0 +1,34 @@
+*{
+  box-sizing: border-box;
+}
+
+.logo {
+    width: 200px;
+  }
+  
+  .nav-theme {
+    background-color: #101018f8;
+    font-size: 20px;
+  }
+  
+  .animate-navbar {
+    box-shadow: 1px 1px 1px #222;
+    animation: moveDown 0.5s ease-in-out;
+  }
+  
+  @keyframes moveDown {
+    from {
+      transform: translateY(-5rem);
+    }
+    to {
+      transform: translateY(0rem);
+    }
+  }
+
+  /* for mobile screens */
+@media only screen and (max-width: 750px) {
+  .img-fluid {
+    max-width: 100px !important;
+    max-height: 69px !important;
+  }
+}
