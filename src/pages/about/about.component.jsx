@@ -29,8 +29,8 @@ const About = () => {
                         <br />A coding enthusiast, a learner and a frontend developer with Angular and Reactjs as my tech stack.
                         <br />
                         I am a graduate of Environmental Biology but I have always had the passion to build things,
-                        when I was introduced to coding, the idea of becoming a creator and not a user was fascinating 
-                        felt like i finally found where I belong. I decided to change career to Software Engineering
+                        when I was introduced to coding, the idea of becoming a creator and not a user was fascinating, 
+                        so I decided to change careers to Software Engineering
                         <br />
                         Presently I work as a frontend developer creating single-page applications with Angular and React.
                         <br />  
