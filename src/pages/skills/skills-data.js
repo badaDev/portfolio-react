@@ -8,6 +8,7 @@ import L_EXPRESS from "../../assets/img/skills/express.svg";
 import L_MONGODB from "../../assets/img/skills/mongodb.svg";
 import L_GIT from "../../assets/img/skills/git-icon.svg";
 import L_JAVASCRIPT from "../../assets/img/skills/javascript.svg";
+import L_ANGULAR from "../../assets/img/skills/angular-img.svg"
 
 
 
@@ -36,6 +37,12 @@ export const skills = {
         imgAltText: "Bootstrap",
         imgSrc: L_BOOTSTRAP,
         skillName: "Bootstrap",
+      },
+      {
+        link: "https://angular.io/",
+        imgAltText: "Angular",
+        imgSrc: L_ANGULAR,
+        skillName: "Angular",
       },
       {
         link: "https://reactjs.org/",

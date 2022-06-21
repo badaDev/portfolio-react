@@ -26,19 +26,17 @@ const About = () => {
                   <Col xs={12} md={6}>
                       <Row className="align-items-start p-2 my-details rounded">
                         Hi there! I am <strong>&nbsp;Nurudeen Olanrewaju Bada</strong>
-                        <br />A coding enthusiast and a Coach, I am a Web Developer with React.js, Redux, Express.js, 
-                        Node.js, and MongoDB as my tech stack.
+                        <br />A coding enthusiast, a learner and a frontend developer with Angular and Reactjs as my tech stack.
                         <br />
-                        I was introduced to the world of Computer Programming in 2019, the idea of becoming a builder and
-                        not a user was fascinating felt like i finally found where I belong. I decided to change career so 
-                        I took up some online courses to teach myself the basics of computer programming then later went for bootcamps.
+                        I am a graduate of Environmental Biology but I have always had the passion to build things,
+                        when I was introduced to coding, the idea of becoming a creator and not a user was fascinating 
+                        felt like i finally found where I belong. I decided to change career to Software Engineering
                         <br />
-                        Presently I work with a group of developers at <a href="https://www.jbitss.com" target="_blank" rel="noopener noreferrer">Jbitss Tech</a>
-                        creating different types of Web Apps for our satisfied clients.<br />  
-                        My goal is always driven towards providing amazing experience with the best level of quality and service 
-                        to them.
+                        Presently I work as a frontend developer creating single-page applications with Angular and React.
+                        <br />  
+                        My goal is always driven towards providing amazing experience with the best level of quality service
                         <br />
-                        Along with that, I also help people as a COACH on their journey to becoming a professional web developer. 
+                        I also help people as a COACH on their journey to becoming a professional software developer. 
                         <br />I love learning about new technologies, what problems are they solving and How can I use them to build better and scalable products.
                         <br /> <br />
                       </Row>

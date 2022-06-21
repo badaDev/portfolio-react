@@ -21,18 +21,18 @@ const Experience = () => {
                   </Card.Header>
                   <Card.Body className="d-flex justify-content-center flex-column">
                     <div>
-                      <Card.Title className="text-center">Web Developer</Card.Title>
+                      <Card.Title className="text-center">Frontend Developer</Card.Title>
                     </div>
                     <div>
                       <Card.Text className="text-center style">
                         <strong> Description </strong>
                         <ul className="text-left text-muted">
-                          <li><strong>Created &amp; upgraded</strong> different highlights with adaptability choice across web application.</li>
+                          <li><strong>Created &amp; upgraded</strong> different highlights with adaptability choice across application.</li>
                           <li><strong>Provided</strong> application maintenance. 
                           </li>
                           <li><strong>Performed</strong> CRUD operations on various data sets to load/ eliminate data as 
-                          indicated by clients necessities.</li>
-                          <li><strong>Created</strong> mobile friendly designs depending on clients request</li>
+                          indicated by product necessities.</li>
+                          <li><strong>Created</strong> mobile friendly designs depending on product neccessities</li>
                         </ul>
                         
                         

@@ -36,8 +36,8 @@ const Skills = () => {
                 </Col>
 
                 <Col md={6}>
-                   <Row className="justify-content-around">
-                       {/* backend */}
+                   {/* <Row className="justify-content-around">
+                       backend
                         <Card className="focus mt-2 mb-2 w-75">
                             <Card.Body>
                                 <Card.Title className="text-center  card-title">Backend</Card.Title>
@@ -53,10 +53,10 @@ const Skills = () => {
                                 </Card.Text>
                             </Card.Body>
                         </Card>
-                   </Row>
+                   </Row> */}
 
-                   <Row className="justify-content-around">
-                        {/* database */}
+                   {/* <Row className="justify-content-around">
+                        database
                         
                         <Card className="focus mt-2 mb-2 w-75">
                             <Card.Body>
@@ -73,7 +73,7 @@ const Skills = () => {
                                 </Card.Text>
                             </Card.Body>
                         </Card>
-                   </Row>
+                   </Row> */}
 
                    <Row className="justify-content-around"> 
                         {/* Version Control */}
